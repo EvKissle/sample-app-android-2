@@ -9,14 +9,14 @@ public interface Keys {
     public final static String WEB_DOMAIN = "zoom.us";
 
     // TODO Change it to your APP Key
-    public final static String APP_KEY = "5yxzDDoc6RxqAk3nAPE52jwDjwISi6QWi6Rc";
+    public final static String APP_KEY = "";
 
     // TODO Change it to your APP Secret
-    public final static String APP_SECRET = "MpfAfQxTIYjLpU6lpNwbhirpo3trxGwAs9gF";
+    public final static String APP_SECRET = "";
 
     // TODO change it to your user ID
-    public final static String USER_ID = "LeE4XRa8RkaCxtqgXts3Zw";
+    public final static String USER_ID = "";
 
     // TODO change it to your token
-    public final static String ZOOM_TOKEN = "XYCGZAbFNZn9YpG3riia7-fCWJhsDXDyRvLEqxq3rZ8.BgMsb0NFOURZNStNZGJuNXhXSGY5SWRydGovdCtIdW5oV0tzQ0xwbnBFODRqTT1AN2QxM2I5NWIwZTVlZDliOTE5OTE1ZWIwNDM4ZTNmMmVlY2E0MmZjZjE5MmUyZDdjNzY0YzQwOWU1NjliMjExYgAMM0NCQXVvaVlTM3M9";
+    public final static String ZOOM_TOKEN = "";
 }
